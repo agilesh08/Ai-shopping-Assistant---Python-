@@ -1,6 +1,6 @@
-# Trevor AI — AI Shopping & Styling Assistant 🛍️✨
+# AI Shopping & Styling Assistant 🛍️✨
 
-Trevor AI (formerly Maya) is an advanced, production-grade conversational AI Shopping & Styling Assistant built for Telegram. It combines local LLMs (**Llama 3.2 3B** via Ollama) with multimodal vision (**Google Gemini 2.5 Flash**), real-time Amazon India retrieval, weighted semantic ranking, product intelligence scoring, and AI buying recommendations.
+AI Shopping & Styling Assistant (Trevor AI) is an advanced, production-grade conversational AI Shopping & Styling Assistant built for Telegram. It combines local LLMs (**Llama 3.2 3B** via Ollama) with multimodal vision (**Google Gemini 2.5 Flash**), real-time Amazon India retrieval, weighted semantic ranking, product intelligence scoring, and AI buying recommendations.
 
 ---
 
