@@ -12,7 +12,7 @@ AI Shopping & Styling Assistant (Trevor AI) is an advanced, production-grade con
 - **Conversation Memory Engine**: Tracks shopping session context across turns with ordinal reference resolution (`"first product"`, `"compare 1st and 3rd"`).
 - **Category-Aware Weighted Ranking Engine**: Custom weighting models tailored per category (Laptops, Phones, Headphones, Water Heaters, Clothing, Shoes).
 - **Product Intelligence Layer**: Extracts category-tailored specifications and calculates the **Shopping Value Score (0–100)**.
-- **AI Decision Engine**: Assigns non-overlapping recommendation badges (`🏆 Best Overall`, `💰 Best Value for Money`, `🏷️ Best Budget`) with factual Pros & Cons.
+- **AI Decision Engine**: Assigns non-overlapping recommendation badges with factual Pros & Cons.
 - **Personalized Styling Advisor**: Generates fashion and outfit advice powered by Llama 3.2.
 
 **Built By Agilesh T** 
