@@ -1,0 +1,19 @@
+# Environment variables & secrets
+.env
+
+# Python cache & bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local temporary images & data
+temp_images/
+reminders.json
+*.html
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
