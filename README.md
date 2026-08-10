@@ -105,6 +105,3 @@ python bot.py
 
 ---
 
-## 📜 License
-
-Distributed under the MIT License. Created by Agilesh T.
